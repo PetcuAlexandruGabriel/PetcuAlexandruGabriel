@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PetcuAlexandruGabriel
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning Kotlin.
+- 👀 I’m interested in Frontend development
+- 🌱 I’m currently learning React.
 
 
 <!---
